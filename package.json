@@ -1,0 +1,26 @@
+{
+  "name": "kbiopaa-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbiopaa/memorable.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"kbiopaa": "^1.0.0",
+  	"de147890": "^1.0.0",
+	"de147890-one": "^1.0.0",
+  	"astinj63": "^1.0.0",
+	"astinj63-one": "^1.0.0",
+  	"wlund535": "^1.0.0",
+	"wlund535-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
